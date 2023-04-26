@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @brendantpritikin
 - 👀 I'm obsessed with all things cars, green energy, and cooking 🥘
-- 🌱 I’m currently learning lots of different things (as a CS student)
+<!---
+-🌱 I’m currently learning lots of different things (as a CS student)
+--->
 - 📫 Shoot me a message on LinkedIn if you want to get in touch!
   - https://linkedin.com/in/brendantpritikin
 <!---
